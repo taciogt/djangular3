@@ -16,6 +16,10 @@ Vc vai precisar instalar algumas coisas no seu sistema operacoinal pra que tudo 
 sudo apt-get install python3-dev node npm postgresql-9.3 postgresql-server-dev-all
 ```
 
+No Mac OS X:
+Baixa o arquivo de instalação do node e instala clicando nele
+https://nodejs.org/en/download/
+
 * 2) Instala o gulp
 
 ```shell
